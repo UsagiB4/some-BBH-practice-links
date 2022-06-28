@@ -1,0 +1,7 @@
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/labs.md
+https://labs.detectify.com/2021/08/24/hakluke-list-resources-for-beginner-hackers-2021/
+https://virdoexhunter.medium.com/labs-or-resources-to-become-a-hacker-or-bug-bounty-hunter-d30b055682be
+https://www.bugbountyhunter.com/getting-started/
+newLinks
+whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/
+pentester.land
